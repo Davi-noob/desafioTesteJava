@@ -1,4 +1,4 @@
-A simple Java console application that simulates basic bank account operations: view balance, transfer funds, receive funds (deposit), and exit. This README consolidates the project description, usage instructions, fixed bugs, and recommended improvements in a precise and professional format.
+A simple Java console application that simulates basic bank account operations: view balance, transfer funds, receive funds (deposit), and exit.
 
 ---
 
